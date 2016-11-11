@@ -12,5 +12,5 @@ MicroSD 	Upto 32 GB
 Battery 	2540 mAh
 Camera 	        8 MP
 
-x
+
 

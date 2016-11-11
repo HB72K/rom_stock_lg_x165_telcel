@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<virtualSpnOverridesByImsi version="1">
+<!--<2015/01/21 Dongshilei [V10][Porting][Common][Mvno][][] Porting mvno configuration table. -->
+
+<virtualSpnOverride imsipattern="20801xxx67xxxxx" name="Virgin"/>
+<!--2014/9/9-43402-xingzi.ruan,[5503][SPAIN][Settings]modify the data connection name of SPN. -->
+<virtualSpnOverride imsipattern="2140352xxxxxxxx" name="Carrefour"/> 
+<virtualSpnOverride imsipattern="2140606xxxxxxxx" name="Eroski Movil"/> 
+<virtualSpnOverride imsipattern="2140359xxxxxxxx" name="Euskaltel"/> 
+<virtualSpnOverride imsipattern="2140612xxxxxxxx" name="móbilR"/> 
+<virtualSpnOverride imsipattern="2620749xxxxxxxx" name="o2-de"/>  
+<virtualSpnOverride imsipattern="262075xxxxxxxxx" name="o2-de"/>  
+<virtualSpnOverride imsipattern="2140613xxxxxxxx" name="telecable"/>
+<!--2014/9/9-43402-xingzi.ruan -->
+
+
+
+
+<!--<2014/11/25-46389-Luckydong,[5503][ESP][TD4242]Modify operator name match rule(plmn+simMCCMNC+xxx). -->
+<!--<2014/11/25-46389-Luckydong,[5503][ESP][TD4242]Modify operator name match rule(plmn+simMCCMNC+xxx). -->
+<!--<2014/11/25-46389-Luckydong,[5503][ESP][TD4242]Modify operator name match rule(plmn+simMCCMNC+xxx). -->
+<!--<2014/11/25-46389-Luckydong,[5503][ESP][TD4242]Modify operator name match rule(plmn+simMCCMNC+xxx). -->
+
+<virtualSpnOverride imsipattern="2080120801xxx67xxxxx" name="Virgin"/>
+<!--2014/9/9-43402-xingzi.ruan,[5503][SPAIN][Settings]modify the data connection name of SPN. -->
+<virtualSpnOverride imsipattern="214032140352xxxxxxxx" name="Carrefour"/> 
+<virtualSpnOverride imsipattern="214062140606xxxxxxxx" name="Eroski Movil"/> 
+<virtualSpnOverride imsipattern="214032140359xxxxxxxx" name="Euskaltel"/> 
+<virtualSpnOverride imsipattern="214012140612xxxxxxxx" name="móbilR"/> 
+<virtualSpnOverride imsipattern="262072620749xxxxxxxx" name="o2-de"/>  
+<virtualSpnOverride imsipattern="26207262075xxxxxxxxx" name="o2-de"/>  
+<virtualSpnOverride imsipattern="214012140613xxxxxxxx" name="telecable"/>
+<!--2014/9/9-43402-xingzi.ruan -->
+
+<!-->2014/11/25-46389-Luckydong -->
+<!-->2014/11/25-46389-Luckydong -->
+<!-->2014/11/25-46389-Luckydong -->
+<!-->2014/11/25-46389-Luckydong -->
+
+<!-->2015/01/21 Dongshilei -->
+</virtualSpnOverridesByImsi>

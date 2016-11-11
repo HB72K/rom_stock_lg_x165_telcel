@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<virtualSpnOverridesByEfPnn version="1">
+<!--<2015/01/21 Dongshilei [V10][Porting][Common][Mvno][][] Porting mvno configuration table. -->
+
+<virtualSpnOverride mccmncpnn="26203Ortel D" name="Ortel D"/>
+<virtualSpnOverride mccmncpnn="23430EE" name="EE"/>    
+
+
+
+<!--<2014/11/25-46389-Luckydong,[5503][ESP][TD4242]Modify operator name match rule(plmn+simMCCMNC+xxx). -->
+<!--<2014/11/25-46389-Luckydong,[5503][ESP][TD4242]Modify operator name match rule(plmn+simMCCMNC+xxx). -->
+<!--<2014/11/25-46389-Luckydong,[5503][ESP][TD4242]Modify operator name match rule(plmn+simMCCMNC+xxx). -->
+<!--<2014/11/25-46389-Luckydong,[5503][ESP][TD4242]Modify operator name match rule(plmn+simMCCMNC+xxx). -->
+
+<virtualSpnOverride mccmncpnn="2620326203Ortel D" name="Ortel D"/>
+<virtualSpnOverride mccmncpnn="2343023430EE" name="EE"/>    
+
+<!-->2014/11/25-46389-Luckydong -->
+<!-->2014/11/25-46389-Luckydong -->
+<!-->2014/11/25-46389-Luckydong -->
+<!-->2014/11/25-46389-Luckydong -->
+
+<!-->2015/01/21 Dongshilei -->
+</virtualSpnOverridesByEfPnn>

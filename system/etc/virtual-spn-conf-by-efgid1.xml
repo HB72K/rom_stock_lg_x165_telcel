@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<virtualSpnOverridesByEfGid1 version="1">
+<!--<2015/01/21 Dongshilei [V10][Porting][Common][Mvno][][] Porting mvno configuration table. -->    
+<virtualSpnOverride mccmncgid1="2343040" name="Virgin"/>
+<!--2014/9/9-43402-xingzi.ruan,[5503][SPAIN][Settings]modify the data connection name of SPN. -->
+    <virtualSpnOverride mccmncgid1="214030008" name="Euskaltel"/>
+<!--2014/9/9-43402-xingzi.ruan -->
+<!--//<2014/11/27-44475-xuan.zhou, [5503][Thailand][Voice Mail,ProfileSettings]Modify the values of gid "01FF" instead of "5200001FF" for Thailand version.       --> 
+<!--2014/12/09-44494-xingzi.ruan,[5503][THAILAND][TD4342/TD4344/TD4352][Settings]Modify SPN for THAI. -->  
+    <!-- <virtualSpnOverride mccmncgid1="5200002FF" name="CAT 3G"/> -->
+    <!-- <virtualSpnOverride mccmncgid1="5200001FF" name="True Move"/> -->
+    <virtualSpnOverride mccmncgid1="5200002FF" name="CAT"/> 
+    <virtualSpnOverride mccmncgid1="5200001FF" name="TRUE-H"/>
+<!--2014/12/09-44494-xingzi.ruan -->
+<!--//> 2014/11/27-44475-xuan.zhou -->    
+
+
+
+<!--<2014/11/25-46389-Luckydong,[5503][ESP][TD4242]Modify operator name match rule(plmn+simMCCMNC+xxx). -->
+<!--<2014/11/25-46389-Luckydong,[5503][ESP][TD4242]Modify operator name match rule(plmn+simMCCMNC+xxx). -->
+<!--<2014/11/25-46389-Luckydong,[5503][ESP][TD4242]Modify operator name match rule(plmn+simMCCMNC+xxx). -->
+<!--<2014/11/25-46389-Luckydong,[5503][ESP][TD4242]Modify operator name match rule(plmn+simMCCMNC+xxx). -->
+
+<virtualSpnOverride mccmncgid1="234302343040" name="Virgin"/>
+<!--2014/9/9-43402-xingzi.ruan,[5503][SPAIN][Settings]modify the data connection name of SPN. -->
+    <virtualSpnOverride mccmncgid1="21403214030008" name="Euskaltel"/>
+<!--2014/9/9-43402-xingzi.ruan -->  
+<!--2014/11/17-44459-xingzi.ruan,[5503][THAILAND][Settings]modify the data connection name of SPN. -->
+<!--2014/12/09-44494-xingzi.ruan,[5503][THAILAND][TD4342/TD4344/TD4352][Settings]Modify SPN for THAI. -->  
+    <!-- <virtualSpnOverride mccmncgid1="520005200002FF" name="CAT 3G"/>  -->
+    <!-- <virtualSpnOverride mccmncgid1="520005200001FF" name="True Move"/>  -->
+    <virtualSpnOverride mccmncgid1="520005200002FF" name="CAT"/> 
+    <virtualSpnOverride mccmncgid1="520005200001FF" name="TRUE-H"/>  
+    <!--2014/12/12-45584-xingzi.ruan,[5503][THAILAND][TD4343][Settings]Modify SPN for THAI. -->  
+    <virtualSpnOverride mccmncgid1="520995200001FF" name="TRUE-H"/> 
+    <virtualSpnOverride mccmncgid1="520995200001ff" name="TRUE-H"/> 
+    <virtualSpnOverride mccmncgid1="520005200001ff" name="TRUE-H"/>
+    <virtualSpnOverride mccmncgid1="5200001ff" name="TRUE-H"/>  
+    <!--2014/12/12-45584-xingzi.ruan -->  
+<!--2014/12/09-44494-xingzi.ruan -->
+<!--2014/11/17-44459-xingzi.ruan -->
+<!--2014/11/25-44446-xingzi.ruan,[5503][France][Settings]modify the data connection name of SPN. -->
+<!--//<2014/12/12-44497-xuan.zhou,  [5503][France][TD4362][Message Settings,Email,Voice Mail,ProfileSettings]The GPRI gid value is the capital, but from Sim Card value is lower case, so we want to modify it for France version.  -->
+<virtualSpnOverride mccmncgid1="20823524d4f31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="20801524d4f31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="20601524d4f31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="208264e524a31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="208104e524a31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="208014e524a31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="208104c504d" name="La Poste Mobile"/>
+<!--//> 2014/12/12-44497-xuan.zhou -->
+
+<virtualSpnOverride mccmncgid1="20823524D4F31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="20801524D4F31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="20601524D4F31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="208264E524A31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="208104E524A31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="208014E524A31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="208104C504D" name="La Poste Mobile"/>
+<virtualSpnOverride mccmncgid1="6471012" name="Coriolis"/>
+<virtualSpnOverride mccmncgid1="2081012" name="Coriolis"/>
+<virtualSpnOverride mccmncgid1="2080133633437" name="Carrefour"/>
+<!--//<2014/12/12-44497-xuan.zhou,  [5503][France][TD4362][Message Settings,Email,Voice Mail,ProfileSettings]The GPRI gid value is the capital, but from Sim Card value is lower case, so we want to modify it for France version.    -->
+<virtualSpnOverride mccmncgid1="2060120823524d4f31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="2080120801524d4f31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="2060120601524d4f31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="20826208264e524a31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="20601208264e524a31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="20810208104e524a31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="20801208014e524a31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="20810208104c504d" name="La Poste Mobile"/>
+<!--//> 2014/12/12-44497-xuan.zhou -->
+
+<virtualSpnOverride mccmncgid1="2060120823524D4F31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="2080120801524D4F31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="2060120601524D4F31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="20826208264E524A31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="20601208264E524A31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="20810208104E524A31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="20801208014E524A31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="20810208104C504D" name="La Poste Mobile"/>
+<virtualSpnOverride mccmncgid1="647106471012" name="Coriolis"/>
+<virtualSpnOverride mccmncgid1="208102081012" name="Coriolis"/>
+<virtualSpnOverride mccmncgid1="208012080133633437" name="Carrefour"/>
+<!--2014/12/25-45594-xingzi.ruan,[5503][France][TD4358][Settings]The sim information is Orange F (208 01) instead of NRJ Mobile (208 26) . -->
+<virtualSpnOverride mccmncgid1="20801208264E524A31" name="NRJ Mobile"/>
+<virtualSpnOverride mccmncgid1="20801208264e524a31" name="NRJ Mobile"/>
+<!--2014/12/25-45594-xingzi.ruan -->
+<!--2014/11/25-44446-xingzi.ruan -->
+
+<!-->2014/11/25-46389-Luckydong -->
+<!-->2014/11/25-46389-Luckydong -->
+<!-->2014/11/25-46389-Luckydong -->
+<!-->2014/11/25-46389-Luckydong -->
+
+<!--//<2014/12/12-44499-xuan.zhou, [5503][Thailand][TD4345,TD4347][ProfileSettings]Add mvnoType GID2 for Sim Card(52000+02FF) for Thailand version.      -->
+<virtualSpnOverride mccmncgid1="5200002FF" name="CAT"/> 
+<virtualSpnOverride mccmncgid1="5200002ff" name="CAT"/> 
+
+<virtualSpnOverride mccmncgid1="520005200002FF" name="CAT"/> 
+<virtualSpnOverride mccmncgid1="520995200002FF" name="CAT"/>
+<virtualSpnOverride mccmncgid1="520005200002ff" name="CAT"/> 
+<virtualSpnOverride mccmncgid1="520995200002ff" name="CAT"/>
+<!--//> 2014/12/12-44499-xuan.zhou -->
+
+<!--//<2014/12/20-47012-xuan.zhou,  [5503][France][TD4358]Modify MVNO SPN for Virgin[20823].  -->
+<virtualSpnOverride mccmncgid1="2081020823524d4f31" name="Virgin"/>
+<virtualSpnOverride mccmncgid1="2081020823524D4F31" name="Virgin"/>
+<!--//> 2014/12/20-47012-xuan.zhou -->
+
+<!-->2015/01/21 Dongshilei -->
+</virtualSpnOverridesByEfGid1>
